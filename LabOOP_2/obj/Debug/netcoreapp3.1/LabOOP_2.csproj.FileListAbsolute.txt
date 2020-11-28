@@ -1,0 +1,13 @@
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.exe
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.deps.json
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.runtimeconfig.json
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.runtimeconfig.dev.json
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.dll
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\bin\Debug\netcoreapp3.1\LabOOP_2.pdb
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.csprojAssemblyReference.cache
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.AssemblyInfoInputs.cache
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.AssemblyInfo.cs
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.csproj.CoreCompileInputs.cache
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.dll
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.pdb
+C:\Users\p057o\Desktop\EPAM\C# ООП\Задание 2\LabOOP\obj\Debug\netcoreapp3.1\LabOOP_2.genruntimeconfig.cache
