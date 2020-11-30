@@ -1,0 +1,13 @@
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.exe
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.deps.json
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.runtimeconfig.json
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.runtimeconfig.dev.json
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.dll
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\bin\Debug\netcoreapp3.1\LabOOP.pdb
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.csprojAssemblyReference.cache
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.AssemblyInfoInputs.cache
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.AssemblyInfo.cs
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.csproj.CoreCompileInputs.cache
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.dll
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.pdb
+C:\Users\p057o\Desktop\EPAM\Repository\C#OOP\LabOOP\obj\Debug\netcoreapp3.1\LabOOP.genruntimeconfig.cache
