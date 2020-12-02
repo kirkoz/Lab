@@ -1,0 +1,9 @@
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\bin\Debug\netstandard2.0\Calc.deps.json
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\bin\Debug\netstandard2.0\Calc.dll
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\bin\Debug\netstandard2.0\Calc.pdb
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.csprojAssemblyReference.cache
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfoInputs.cache
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfo.cs
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.dll
+C:\Users\p057o\Desktop\EPAM\NUnit\Calc\obj\Debug\netstandard2.0\Calc.pdb
